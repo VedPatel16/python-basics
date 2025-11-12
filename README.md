@@ -1,2 +1,2 @@
-this folder will make you ready to begining the journey.by this the basics of python with indepth detil is covered in this folder.
-Thank you !
+This folder will make you ready from begining of the journey.In this folder the python basics with indepth detil is covered.
+Thank You !!
