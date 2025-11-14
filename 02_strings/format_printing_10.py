@@ -1,5 +1,5 @@
 name=input('enter your name')
-age=int(input('enter your name'))
+age=int(input('enter your age'))
 
 # m-1(old method)
 final='my name is {}.i am {} years old'
@@ -13,4 +13,5 @@ print('my name is',name,' i am of ',age)
 
 # so what is need of formatting
 #   cleaner syntax
+
 #   control on space(normal leaves space)
