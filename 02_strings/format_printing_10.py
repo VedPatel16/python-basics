@@ -6,7 +6,7 @@ final='my name is {}.i am {} years old'
 print(final.format(name,age))
 
 # m-2
-print(f'my name is {name}. i am {age} tears old.')
+print(f'my name is {name}. i am {age} years old.')
 
 # normal method 
 print('my name is',name,' i am of ',age)
@@ -15,3 +15,4 @@ print('my name is',name,' i am of ',age)
 #   cleaner syntax
 
 #   control on space(normal leaves space)
+
